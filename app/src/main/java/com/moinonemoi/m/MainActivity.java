@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void replace(View view) {
         TextView textView = findViewById(R.id.textView1);
-        textView.setText("Как дела?");
+        textView.setText("Как дела.?");
     }
 }
